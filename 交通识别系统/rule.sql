@@ -1,0 +1,11 @@
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (0, '小', '有轮子', '', '车');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (1, '大', '流线型', '', '飞机');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (2, '', '天上飞的', '', '飞机');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (3, '', '水上游的', '', '船');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (4, '', '地上跑的', '', '车');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (5, '大', '冒黑烟', '船', '轮船');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (6, '', '有机翼', '飞机', '航天飞机');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (7, '', '有螺旋桨', '飞机', '直升机');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (8, '', '有四个轮', '车', '汽车');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (9, '', '有两个轮', '车', '自行车');
+INSERT INTO `rule`(`id`, `Size`, `Characters`, `Vehicle`, `Results`) VALUES (10, '小', '以电能为动力源', '车', '电动车');
